@@ -24,5 +24,7 @@ make
 ```
 ./MyCaCa cbh.png --width 32 
 ```
+## Example
 
+![Image](result.png)
 
