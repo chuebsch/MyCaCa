@@ -27,4 +27,6 @@ make
 ## Example
 
 ![Image](result.png)
+### from this: 
+![Image](cbh.png)
 
